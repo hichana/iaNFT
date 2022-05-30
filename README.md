@@ -1,7 +1,6 @@
 # iaNFT-Flow
 
-iaNFT is an in-development set of tools and composable smart contracts on the Flow blockchain for creating fully on-chain, infinitely compositable and mutable artwork assets for interactive NFT experiences. These assets can safely evolve as they are utilized in various NFT projects on Flow, adding new layers, recompositing/re-ordering layers and even changing the properties (color, shape) of the artwork iteself. For a summary and proof-of-concept demonstration of iaNFt, see the [Flow Office Hours presentation from @hichana](https://www.twitch.tv/videos/1475732343?t=00h31m04s).
-
+iaNFT is an in-development set of tools and composable smart contracts on the Flow blockchain for creating fully on-chain, infinitely compositable and mutable artwork assets for interactive NFT experiences. These assets can safely evolve as they are utilized in various NFT projects on Flow, adding new layers, recompositing/re-ordering layers and even changing the properties (color, shape) of the artwork iteself. For a summary and proof-of-concept demonstration of iaNFt, see the [Flow Office Hours presentation from @hichana](https://youtu.be/q8jk5hGAwSs?t=1865).
 
 ## Values of iaNFT:
 - collaborating and sharing tools
